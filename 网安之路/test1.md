@@ -1,1 +1,0 @@
-test file if the network is not available.
