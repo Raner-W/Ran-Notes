@@ -65,4 +65,4 @@ intval(11e3)，会自动被强制转化为int类型，即11。但是当运算时
 ### 3.cat的替代品
 more 、less 、tail 、head 、sort 、ca\t
 ### 4.空格的替代品
-$IFS ${IFS} $IFS$1 $IFS$9
+\$IFS \${IFS} \$IFS\$1 \$IFS\$9
